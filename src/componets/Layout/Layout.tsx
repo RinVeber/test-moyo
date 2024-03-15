@@ -4,8 +4,6 @@ import Footer from "../Footer/Footer";
 import { Outlet } from "react-router-dom";
 
 const BackgroundLayout = styled("div")(() => ({
-  // maxWidth: "1920px",
-  minWidth: '375px',
   width: "100%",
   height: "100vh",
   display: 'flex',
