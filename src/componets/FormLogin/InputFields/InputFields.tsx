@@ -55,7 +55,7 @@ export default function InputFields() {
           render={({ field: { ...fieldsProps } }) => (
             <>
               <InputCustom
-                placeholder="Password"
+                placeholder="Пароль"
                 fullWidth
                 {...fieldsProps}
                 error={!!errors.password}
