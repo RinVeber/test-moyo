@@ -3,4 +3,4 @@
 
 # Деплой
 
-- [Versel](test-moyo.vercel.app)
+- [Versel](https://test-moyo-lktsu7zum-rinvebers-projects.vercel.app)
